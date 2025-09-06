@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "frontend",
-=======
-  "name": "frotend",
->>>>>>> 8a252175bc6bdeefea69a93467562e838835259e
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "1.2.2",
     "@radix-ui/react-alert-dialog": "1.1.4",
@@ -58,11 +53,6 @@
     "recharts": "2.15.4",
     "sonner": "^1.7.4",
     "zod": "3.25.67"
-=======
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "react-router-dom": "^7.8.2"
->>>>>>> 8a252175bc6bdeefea69a93467562e838835259e
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
